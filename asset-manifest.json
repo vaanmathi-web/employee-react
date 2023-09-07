@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/git%20init/static/css/main.a97edf8b.css",
-    "main.js": "/git%20init/static/js/main.adc16c82.js",
-    "static/js/787.c1112931.chunk.js": "/git%20init/static/js/787.c1112931.chunk.js",
-    "static/media/registration-hero.jpg": "/git%20init/static/media/registration-hero.71cddaf167990e2276e7.jpg",
-    "index.html": "/git%20init/index.html",
-    "main.a97edf8b.css.map": "/git%20init/static/css/main.a97edf8b.css.map",
-    "main.adc16c82.js.map": "/git%20init/static/js/main.adc16c82.js.map",
-    "787.c1112931.chunk.js.map": "/git%20init/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/vaanmathi-web/react-employee.git/static/css/main.a97edf8b.css",
+    "main.js": "/vaanmathi-web/react-employee.git/static/js/main.82898127.js",
+    "static/js/787.c1112931.chunk.js": "/vaanmathi-web/react-employee.git/static/js/787.c1112931.chunk.js",
+    "static/media/registration-hero.jpg": "/vaanmathi-web/react-employee.git/static/media/registration-hero.71cddaf167990e2276e7.jpg",
+    "index.html": "/vaanmathi-web/react-employee.git/index.html",
+    "main.a97edf8b.css.map": "/vaanmathi-web/react-employee.git/static/css/main.a97edf8b.css.map",
+    "main.82898127.js.map": "/vaanmathi-web/react-employee.git/static/js/main.82898127.js.map",
+    "787.c1112931.chunk.js.map": "/vaanmathi-web/react-employee.git/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a97edf8b.css",
-    "static/js/main.adc16c82.js"
+    "static/js/main.82898127.js"
   ]
 }
