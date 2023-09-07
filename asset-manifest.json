@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/employee-react/static/css/main.a97edf8b.css",
+    "main.js": "/employee-react/static/js/main.65d26955.js",
+    "static/js/787.c1112931.chunk.js": "/employee-react/static/js/787.c1112931.chunk.js",
+    "static/media/registration-hero.jpg": "/employee-react/static/media/registration-hero.71cddaf167990e2276e7.jpg",
+    "index.html": "/employee-react/index.html",
+    "main.a97edf8b.css.map": "/employee-react/static/css/main.a97edf8b.css.map",
+    "main.65d26955.js.map": "/employee-react/static/js/main.65d26955.js.map",
+    "787.c1112931.chunk.js.map": "/employee-react/static/js/787.c1112931.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a97edf8b.css",
+    "static/js/main.65d26955.js"
+  ]
+}
